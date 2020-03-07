@@ -107,7 +107,7 @@ class MyApp2 extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         //appBar: AppBar(title: const Text(_title)),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.white,
         body: Center(
           child: Column(
             //          mainAxisAlignment: MainAxisAlignment.center,
